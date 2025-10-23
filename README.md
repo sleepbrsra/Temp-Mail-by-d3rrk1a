@@ -1,6 +1,4 @@
-![Header banner for TempMail](https://raw.githubusercontent.com/sleepbrsra/Temp-Mail-by-d3rrk1a/main/other/banner.png)
-
-
+![Header banner for TempMail](other/banner.png)
 
 
 
