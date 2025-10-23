@@ -1,0 +1,5 @@
+requests
+pyperclip
+# Если будешь запускать на Windows — раскомментируй следующую строку:
+# If you are running it on Windows, uncomment the following line:
+# windows-curses
