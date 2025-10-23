@@ -28,13 +28,13 @@ TempMail allows you to create temporary email accounts, fetch messages, view con
 ---
 
 📂 Project Structure:
-
+```
 /tempmail
 ├─ python/   # Python implementation
 ├─ rust/     # Rust implementation
 ├─ LICENSE
 └─ README.txt
-
+```
 ---
 
 🚀 Usage:
